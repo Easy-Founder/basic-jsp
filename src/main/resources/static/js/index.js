@@ -1,0 +1,1 @@
+document.getElementById("input_1").value='00000';
